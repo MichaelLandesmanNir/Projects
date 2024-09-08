@@ -20,6 +20,8 @@ The Observer pattern was utilized for handling events triggered by various game 
 
 
 
+
+
 2) Youtube 
 This project allows users to search for and view YouTube videos on both web and Android platforms. Built with React and styled-components for the web version, and developed using Android Studio with Java/Kotlin for the Android version, our app offers a seamless and responsive experience for users.
 
